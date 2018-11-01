@@ -1,6 +1,6 @@
 # react-library-hello-world
 
-> 
+> Sample library to hold a package of multiple react styled components to be shared / re-used
 
 [![NPM](https://img.shields.io/npm/v/react-library-hello-world.svg)](https://www.npmjs.com/package/react-library-hello-world) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -15,7 +15,7 @@ npm install --save react-library-hello-world
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-library-hello-world'
+import { MyComponent } from 'react-library-hello-world'
 
 class Example extends Component {
   render () {
