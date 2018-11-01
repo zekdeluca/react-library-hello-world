@@ -1,0 +1,8 @@
+{
+  "short_name": "react-library-hello-world",
+  "name": "react-library-hello-world",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
